@@ -1,0 +1,2887 @@
+{
+  "metas": [
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 0
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 1
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 2
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 3
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 4
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 5
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 6
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 7
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 8
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 9
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 10
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 11
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 12
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 13
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 14
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 15
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 16
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 17
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 18
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 19
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 20
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 21
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 22
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 23
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 24
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 25
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 26
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 27
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 28
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 29
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 30
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 31
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 32
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 33
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 34
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 35
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 36
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 37
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 38
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 39
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 40
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 41
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 42
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 43
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 44
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 45
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 46
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 47
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 48
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 49
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 50
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 51
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 52
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 53
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 54
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 55
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 56
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 57
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 58
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 59
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 60
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 61
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 62
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 63
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 64
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 65
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 66
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 67
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 68
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 69
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 70
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 71
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 72
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 73
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 74
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 75
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 76
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 77
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 78
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 79
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 80
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 81
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 82
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 83
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 84
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 85
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 86
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 87
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 88
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 89
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 90
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 91
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 92
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 93
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 94
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 95
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 96
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 97
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 98
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 99
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 100
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 101
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 102
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 103
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 104
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 105
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 106
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 107
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 108
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 109
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 110
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 111
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 112
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 113
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 114
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 115
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 116
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 117
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 118
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 119
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 120
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 121
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 122
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 123
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 124
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 125
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 126
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 127
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 128
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 129
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 130
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 131
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 132
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 133
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 134
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 135
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 136
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 137
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 138
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 139
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 140
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 141
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 142
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 143
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 144
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 145
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 146
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 147
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 148
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 149
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 150
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 151
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 152
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 153
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 154
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 155
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 156
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 157
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 158
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 159
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 160
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 161
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 162
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 163
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 164
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 165
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 166
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 167
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 168
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 169
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 170
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 171
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 172
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 173
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 174
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 175
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 176
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 177
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 178
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 179
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 180
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 181
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 182
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 183
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 184
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 185
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 186
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 187
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 188
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 189
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 190
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 191
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 192
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 193
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 194
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 195
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 196
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 197
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 198
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 199
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 200
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 201
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 202
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 203
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 204
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 205
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 206
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 207
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 208
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 209
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 210
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 211
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 212
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 213
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 214
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 215
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 216
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 217
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 218
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 219
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 220
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 221
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 222
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 223
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 224
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 225
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 226
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 227
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 228
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 229
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 230
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 231
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 232
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 233
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 234
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 235
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 236
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 237
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 238
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 239
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 240
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 241
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 242
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 243
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 244
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 245
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 246
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 247
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 248
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 249
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 250
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 251
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 252
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 253
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 254
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 255
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 256
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 257
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 258
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 259
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 260
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 261
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 262
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 263
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 264
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 265
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 266
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 267
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 268
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 269
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 270
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 271
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 272
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 273
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 274
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 275
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 276
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 277
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 278
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 279
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 280
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 281
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 282
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 283
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 284
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 285
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 286
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 287
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 288
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 289
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 290
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 291
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 292
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 293
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 294
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 295
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 296
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 297
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 298
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 299
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 300
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 301
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 302
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 303
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 304
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 305
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 306
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 307
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 308
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 309
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 310
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 311
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 312
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 313
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 314
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 315
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 316
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 317
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 318
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 319
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 320
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 321
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 322
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 323
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 324
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 325
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 326
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 327
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 328
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 329
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 330
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 331
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 332
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 333
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 334
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 335
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 336
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 337
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 338
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 339
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 340
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 341
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 342
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 343
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 344
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 345
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 346
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 347
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 348
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 349
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 350
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 351
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 352
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 353
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 354
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 355
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 356
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 357
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 358
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 359
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 360
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 361
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 362
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 363
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 364
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 365
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 366
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 367
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 368
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 369
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 370
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 371
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 372
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 373
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 374
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 375
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 376
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 377
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 378
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 379
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 380
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 381
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 382
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 383
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 384
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 385
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 386
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 387
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 388
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 389
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 390
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 391
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 392
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 393
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 394
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 395
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 396
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 397
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 398
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 399
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 400
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 401
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 402
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 403
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 404
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 405
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 406
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 407
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 408
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 409
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 410
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 411
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 412
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 413
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 414
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 415
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 416
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 417
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 418
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 419
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 420
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 421
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 422
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 423
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 424
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 425
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 426
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 427
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 428
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 429
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 430
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 431
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 432
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 433
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 434
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 435
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 436
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 437
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 438
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 439
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 440
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 441
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 442
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 443
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 444
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 445
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 446
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 447
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 448
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 449
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 450
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 451
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 452
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 453
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 454
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 455
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 456
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 457
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 458
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 459
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 460
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 461
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 462
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 463
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 464
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 465
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 466
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 467
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 468
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 469
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 470
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 471
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 472
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 473
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 474
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 475
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 476
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 477
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 478
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 479
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 480
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 481
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 482
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 483
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 484
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 485
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 486
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 487
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 488
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 489
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 490
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 491
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 492
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 493
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 494
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 495
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 496
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 497
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 498
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 499
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 500
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 501
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 502
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 503
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 504
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 505
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 506
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 507
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 508
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 509
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 510
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 511
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 512
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 513
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 514
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 515
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 516
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 517
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 518
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 519
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 520
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 521
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 522
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 523
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 524
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 525
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 526
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 527
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 528
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 529
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 530
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 531
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 532
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 533
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 534
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 535
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 536
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 537
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 538
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 539
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 540
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 541
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 542
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 543
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 544
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 545
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 546
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 547
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 548
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 549
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 550
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 551
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 552
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 553
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 554
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 555
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 556
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 557
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 558
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 559
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 560
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 561
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 562
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 563
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 564
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 565
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 566
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 567
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 568
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 569
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 570
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 571
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 572
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 573
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 574
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 575
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 576
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 577
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 578
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 579
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 580
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 581
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 582
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 583
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 584
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 585
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 586
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 587
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 588
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 589
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 590
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 591
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 592
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 593
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 594
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 595
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 596
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 597
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 598
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 599
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 600
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 601
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 602
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 603
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 604
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 605
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 606
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 607
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 608
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 609
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 610
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 611
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 612
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 613
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 614
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 615
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 616
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 617
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 618
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 619
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 620
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 621
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 622
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 623
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 624
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 625
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 626
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 627
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 628
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 629
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 630
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 631
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 632
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 633
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 634
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 635
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 636
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 637
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 638
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 639
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 640
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 641
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 642
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 643
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 644
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 645
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 646
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 647
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 648
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 649
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 650
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 651
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 652
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 653
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 654
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 655
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 656
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 657
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 658
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 659
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 660
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 661
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 662
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 663
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 664
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 665
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 666
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 667
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 668
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 669
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 670
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 671
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 672
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 673
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 674
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 675
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 676
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 677
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 678
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 679
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 680
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 681
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 682
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 683
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 684
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 685
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 686
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 687
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 688
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 689
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 690
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 691
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 692
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 693
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 694
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 695
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 696
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 697
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 698
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 699
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 700
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 701
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 702
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 703
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 704
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 705
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 706
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 707
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 708
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 709
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 710
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 711
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 712
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 713
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 714
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 715
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 716
+    },
+    {
+      "file": "bmw.pdf",
+      "chunk_id": 717
+    }
+  ],
+  "corpus_len": 718,
+  "corpus_preview": [
+    "BMW GRO U P REP O RT 2 0 2 2 On the path to electric and digitalised mobility in a sustainable circular economy. Report on the economic performance of the BMW Group and its environmental and social contribution. ↗ Link to the online report M O B I L I T Y L E V E L N E X T The BMW Group firmly asserted itself in a highly volatile environment in the 2022 reporting year. The continued strong performance figures show that we are on track in the transformation – despite the many challenges. Flexibility and resilience are the foundation of our business. The ramp-up of electromobility is gaining momentum. We just recently proved our digital expertise with the presentation of the BMW i Vision Dee. And the goal of a ­circular economy in the BMW Group is taking shape. As a technology platform, the NEUE KLASSE will deepen these focus areas and set new standards for electromobility, digitalisation and sustainability. You can find more information in the following report. G ROUP PROFIT/LOSS BE FORE TAX\b in € million 23,509 G ROUP WOR K FO RCE\b at year-end Significant increase over previous year 149,475 E B I T M A RGI N I N TH E AU TO M OTI V E S E GM E N T \b in % 8.6 EBIT MARGIN IN THE MOTORCYCLES SEGMENT\b in % 8.1 Ro E I N T HE FINANCIAL SERVICES SEGMENT\b in % 17.9 S HA RE OF E LE CT RI F I E D VE HI C LE S I N DE LI VE RI E S \b in % Significant increase over previous year 18.1 Slight decrease from previous year 2,399,632 D E L I V E R I E S I N TH E",
+    "E LE CT RI F I E D VE HI C LE S I N DE LI VE RI E S \b in % Significant increase over previous year 18.1 Slight decrease from previous year 2,399,632 D E L I V E R I E S I N TH E AU TO M OTI V E S E GM E N T \b in units Slight increase over previous year 202,895 D EL I V ER I ES I N TH E M OTO RCYC L ES SEG M EN T\b in units Significant increase over previous year Within the corridor of 8 to 10 % Within the corridor of 8 to 10 % Within the corridor of 17 to 20 % This is a simplified presentation of the data. Detailed information on the performance figures as well as the identification of the depth of the audit can be found in the respective chapters. B M W G ROUP REP O RT 2 02 2 LI NK TO C HA PT E R BMW Group in Figures K E Y P E R FO R M A N C E I N D I CATO R S 🡩 🡩 🡩 🡮 🡭 To Our Stakeholders Group Financial Statements Combined Management Report Responsibility Statement and Auditor’s Report Remuneration Report Other Information BMW Group Report 2022 2 > 10 % 8– 10 % ≥ 18 % > 30 % 22 % > 50 % 80 % > 50 % > 20 % Group EBT margin EBIT margin in the Automotive segment Return on capital employed of Automotive segment Share of electrified cars in total deliveries Share of women in management positions Share of all-electric vehicles in total deliveries Reduction in carbon emissions per vehicle in production Reduction in carbon emissions during a",
+    "Group EBT margin EBIT margin in the Automotive segment Return on capital employed of Automotive segment Share of electrified cars in total deliveries Share of women in management positions Share of all-electric vehicles in total deliveries Reduction in carbon emissions per vehicle in production Reduction in carbon emissions during a vehicle’s use phase Reduction in carbon emissions in the supply chain This is a simplified presentation of the data. Detailed information on the performance figures as well as the identification of the depth of the audit can be found in the respective chapters. LI NK TO C HA PT E R BMW Group Integrated Strategy T HE BMW GROUP ’S STRATE GI C GOA LS F INANC IA L GOALS TARG E TS FOR TH E PERIOD U P TO 20 25 🡩 🡩 TARG E TS FOR TH E PERIOD U P TO 20 30 🡩 🡫 🡫 🡫 To Our Stakeholders Group Financial Statements Combined Management Report Responsibility Statement and Auditor’s Report Remuneration Report Other Information BMW Group Report 2022 3 C O N T E N T S * Part of the Combined Management Report 5 About This Report 2 — C O M B I N E D M A N A G E M E N T R E P O R T 37 Overview of the BMW Group 41 BMW Group Integrated Strategy 51 Financial Performance 79 EU Taxonomy 90 Products 103 Production and Supplier Network 114 Employees and Society 123 Outlook 127 Appropriateness and Effectiveness of the Internal Control System and Risk Management System 128 Risks and Opportunities 143 Compliance and Human Rights 147 Internal Control System 148 Disclosures Relevant for Takeovers and Explanatory Comments 3 — G R O U P F I N A N C I A L S T",
+    "and Effectiveness of the Internal Control System and Risk Management System 128 Risks and Opportunities 143 Compliance and Human Rights 147 Internal Control System 148 Disclosures Relevant for Takeovers and Explanatory Comments 3 — G R O U P F I N A N C I A L S T A T E M E N T S 153 Income Statement for Group and Segments 154 Statement of Comprehensive Income for Group 155 Balance Sheet for Group and Segments at 31 December 2022 157 Cash Flow Statement for Group and Segments 159 Statement of Changes in Equity for Group 161 Notes to the Group Financial Statements 4 — R E S P O N S I B I L I T Y S T A T E M E N T A N D A U D I T O R ’ S R E P O R T 247 Responsibility Statement by the Company’s Legal Representatives 248 Independent Auditor’s Report 256 Independent Practitioner’s Report 5 — R E M U N E R A T I O N R E P O R T 260 Remuneration Report 260 Review of the Past Financial Year from a Remuneration ­Perspective 262 Remuneration of the Members of the Board of Management 300 Remuneration of the Members of the Supervisory Board 304 Comparison of Change in ­Remuneration and ­Earnings pursuant to § 162 (1) ­Sentence 2 No. 2 of the German Stock Corporation Act (AktG) 308 Other Considerations 308 Outlook for the 2023 ­Financial Year 309 \u0007Auditor’s Report 6 — O T H E R I N F O R M A T I O N 311 Further GRI Information 322 SASB Index 325 TCFD Index 329 NFS Index 330 Consumption and Carbon ­Disclosures 333 BMW Group Ten-year Comparison 335 Glossary and Explanation",
+    "­Financial Year 309 \u0007Auditor’s Report 6 — O T H E R I N F O R M A T I O N 311 Further GRI Information 322 SASB Index 325 TCFD Index 329 NFS Index 330 Consumption and Carbon ­Disclosures 333 BMW Group Ten-year Comparison 335 Glossary and Explanation of Key Figures 341 Financial Calendar 342 Contacts 1 — T O O U R S T A K E H O L D E R S 9 BMW Group in Figures 12 Report of the ­Supervisory Board 20 Statement of the Chairman of the Board of Management 26 The Board of Management 27 Composition of the Board of ­Management and Supervisory Board 31 Dialogue with Stakeholders 34 BMW Group and Capital Markets * * To Our Stakeholders Group Financial Statements Combined Management Report Responsibility Statement and Auditor’s Report Remuneration Report Other Information BMW Group Report 2022 4 Contents FRAMEWORKS APPLIED The BMW Group Report is based on the following reporting and accounting standards. Combined Management Report The Combined Management Report is based on the following legal frameworks: — German Commercial Code (HGB) (among other relevant ­legislation) — Content of the Management Report in accordance with §§ 289 and 315 HGB — Combined Non-Financial Statement (NFS) at Group and Company level in accordance with § 289 b and § 315 b HGB (↗ NFS Index) — German Accounting Standards (GAS 20) underpinning HGB requirements — German Stock Corporation Act (AktG) — Taxonomy Regulation (Regulation (EU) 2020 /852 of the European Council and of the European Parliament on the Establishment of a Framework to Facilitate Sustainable Investment, and amending Regulation (EU) 2019 /2088) The report is divided into the following sections: 1 — To Our Stakeholders 2 — Combined Management Report 3 — Group Financial Statements 4 — Responsibility Statement and",
+    "Council and of the European Parliament on the Establishment of a Framework to Facilitate Sustainable Investment, and amending Regulation (EU) 2019 /2088) The report is divided into the following sections: 1 — To Our Stakeholders 2 — Combined Management Report 3 — Group Financial Statements 4 — Responsibility Statement and Auditor’s Report 5 — Remuneration Report 6 — Other Information Changes in reporting and outlook for reporting requirements In light of recent and prospective changes in non-financial dis- closure requirements, in particular the standards of the ISSB and CSRD at the EU level, the pace of change within the reporting environment will continue to gather momentum and increase the extent to which non-financial and financial disclosures need to be presented on an integrated basis. The BMW Group is prepar- ing itself for these new trends by continually developing its Inter- nal Control System to ensure that select non-financial performance indicators are monitored to the same degree as financial perfor- mance indicators. With this BMW Group Report, we also fulfil the disclosure requirements set out by the ↗ ­EU Taxonomy. ­ ­ ↗ GRI Index: 2-4 R E P O RTI NG CO N C E PT Integrated reporting and corporate strategy The BMW Group regards its balance of economic, ecological and social interests as the basis for its commercial success. This ­report is intended to provide qualified insight into the BMW Group and explain our activities in a transparent, comprehensible and measurable manner. We are keen to demonstrate to our stake- holders how economic, ecological and social issues complement one another and are often mutually dependent, and to identify the general external conditions that influence the Company. ­For these reasons, we explain ↗ the BMW Group’s integrated strategy ­as well as the latest developments and the way in which the",
+    "stake- holders how economic, ecological and social issues complement one another and are often mutually dependent, and to identify the general external conditions that influence the Company. ­For these reasons, we explain ↗ the BMW Group’s integrated strategy ­as well as the latest developments and the way in which the business is managed on the basis of key financial and non-­ financial targets. ↗ Dashboard On 7 March 2023, the Financial Statements of BMW AG were prepared and the Group Financial Statements were approved for publication by the Board of Management. The BMW Group Report (hereinafter also “the Report”) combines the management ­reports of Bayerische Motoren Werke Aktiengesellschaft (BMW AG) and the BMW Group in a Combined Management ­Report. * Part of the Combined Management Report A BOUT THIS REP O RT * BMW Group Report 2022 To Our Stakeholders Group Financial Statements Combined Management Report Responsibility Statement and Auditor’s Report Remuneration Report Other Information About This Report 5 ADDITIONAL INFORMATION ON THE REPORT Publication and scope The BMW Group Report is published annually to coincide with the BMW Group Annual Conference – most recently held on 15 March 2022 – and is subsequently available in both German and English on the BMW Group website. The ↗ GRI Index is also available on the website as a separate document. The reporting period covers the financial year from 1 January to 31 December 2022. The statements made in the report relate to the BMW Group reporting entity. ­Any deviations are marked accordingly. The structure of the BMW Group changed significantly on 11 February 2022 due to the BMW Group’s increased stake in the former joint venture BMW Brilliance Automotive Ltd. (BMW Brilliance) and its subsequent inclusion in the BMW Group reporting entity. ­Further information on the first-time consolidation is available ­in",
+    "accordingly. The structure of the BMW Group changed significantly on 11 February 2022 due to the BMW Group’s increased stake in the former joint venture BMW Brilliance Automotive Ltd. (BMW Brilliance) and its subsequent inclusion in the BMW Group reporting entity. ­Further information on the first-time consolidation is available ­in ­↗ note 3 to the Group Financial Statements. The BMW Group Report 2023 will be published on 20 March 2024. ↗ GRI Index: 2-2, 2-3, 2-4 External audit The entire report of BMW AG, comprising the Combined Man- agement Report, the Group Financial Statements and the further GRI Information, is subjected to an annual independent audit by PricewaterhouseCoopers GmbH Wirtschaftsprüfungsgesellschaft (“PwC” or “Auditor”). Unaudited sections are marked according- ly. The external audit serves to underpin the reliability and trust- worthiness of the information contained therein for the public. The external audit supports the Supervisory Board of BMW AG in fulfilling its auditing duties. Any links and disclosures that ­refer to information outside the BMW Group Report and the GRI Index are not part of the audit. The ↗ Remuneration Report 2022 was pre- pared in accordance with the requirements of § 162 of the ­German Stock Corporation Act (AktG) and its content audited by PwC. PwC has audited the Group Financial Statements and the Com- bined Management Report for the year under report and issued an unqualified audit opinion thereupon. Further information is provided in the ↗ Independent Auditor’s Report and the ↗ Independent Practitioner’s Report on Non-financial Disclosures. The contents of the NFS, in accordance with § 289 b and § 315 b HGB, were subjected to an audit to obtain limited assurance and are denoted with the symbol ... . The section ↗ Dialogue with Stakeholders and the additional information provided in the section ↗ Further GRI Information"
+  ]
+}
