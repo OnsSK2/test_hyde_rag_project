@@ -24,11 +24,4 @@ pip install torch transformers sentence-transformers pymupdf scikit-learn numpy 
    Create embeddings and indices from your PDFs:  
    ```bash
    python test_Hyde.py --mode build --pdf_folder pdfs --use_faiss
-   # For DT PDFs
    python test_Hyde.py --mode build --pdf_folder pdfs_dt --use_faiss
-
-2. **Query the PDFs**
-Run a query against the indexed PDFs:
-```bash
-python test_Hyde.py --mode query --pdf_folder pdfs --query "Give me details about BMW" --use_hyde --show_sources
-python test_Hyde.py --mode query --pdf_folder pdfs_dt --query "Give me details a
