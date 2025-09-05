@@ -24,7 +24,7 @@ Run a query against the indexed PDFs:
 ```bash
 python test_Hyde.py --mode query --pdf_folder pdfs --query "Give me details about BMW" --use_hyde --show_sources
 python test_Hyde.py --mode query --pdf_folder pdfs_dt --query "Give me details about DT" --use_hyde --show_sources   
-
+```
 ## Requirements
 
 Python 3.10+ , Virtual environment recommended and the following packages:
