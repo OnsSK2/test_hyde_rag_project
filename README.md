@@ -12,7 +12,23 @@ This project implements a **minimal but powerful Retrieval-Augmented Generation 
 
 ## Requirements
 
-Python 3.10+ and the following packages:
+Python 3.10+ , Virtual environment recommended and the following packages:
 
 ```bash
 pip install torch transformers sentence-transformers pymupdf scikit-learn numpy rank_bm25
+
+
+## Usage
+
+1. **Build the index**  
+   Create embeddings and indices from your PDFs:  
+   ```bash
+   python test_Hyde.py --mode build --pdf_folder pdfs --use_faiss
+   # For DT PDFs
+   python test_Hyde.py --mode build --pdf_folder pdfs_dt --use_faiss
+
+2. **Query the PDFs**
+Run a query against the indexed PDFs:
+```bash
+python test_Hyde.py --mode query --pdf_folder pdfs --query "Give me details about BMW" --use_hyde --show_sources
+python test_Hyde.py --mode query --pdf_folder pdfs_dt --query "Give me details a
