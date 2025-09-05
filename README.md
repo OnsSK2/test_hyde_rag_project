@@ -16,13 +16,13 @@ This project implements a **minimal but powerful Retrieval-Augmented Generation 
 1. **Build the index**  
    Create embeddings and indices from your PDFs:  
    ```bash
-   python test_Hyde.py --mode build --pdf_folder pdfs --use_faiss
+   python test_Hyde.py --mode build --pdf_folder pdfs_bmw --use_faiss
    python test_Hyde.py --mode build --pdf_folder pdfs_dt --use_faiss
 
 2. **Query the PDFs**
 Run a query against the indexed PDFs:
 ```bash
-python test_Hyde.py --mode query --pdf_folder pdfs --query "Give me a brief history of BMW." --use_hyde --show_sources
+python test_Hyde.py --mode query --pdf_folder pdfs_bmw --query "Give me a brief history of BMW." --use_hyde --show_sources
 python test_Hyde.py --mode query --pdf_folder pdfs_dt --query "Gib mir einen Überblick über die Deutsche Telekom." --use_hyde --show_sources   
 ```
 ## Requirements
