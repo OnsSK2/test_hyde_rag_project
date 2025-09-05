@@ -18,7 +18,7 @@ Python 3.10+ , Virtual environment recommended and the following packages:
 pip install torch transformers sentence-transformers pymupdf scikit-learn numpy rank_bm25
 
 
-## Usage
+## **Usage**
 
 1. **Build the index**  
    Create embeddings and indices from your PDFs:  
