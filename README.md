@@ -22,8 +22,8 @@ This project implements a **minimal but powerful Retrieval-Augmented Generation 
 2. **Query the PDFs**
 Run a query against the indexed PDFs:
 ```bash
-python test_Hyde.py --mode query --pdf_folder pdfs --query "Give me details about BMW" --use_hyde --show_sources
-python test_Hyde.py --mode query --pdf_folder pdfs_dt --query "Give me details about DT" --use_hyde --show_sources   
+python test_Hyde.py --mode query --pdf_folder pdfs --query "Give me a brief history of BMW." --use_hyde --show_sources
+python test_Hyde.py --mode query --pdf_folder pdfs_dt --query "Gib mir einen Überblick über die Deutsche Telekom." --use_hyde --show_sources   
 ```
 ## Requirements
 
